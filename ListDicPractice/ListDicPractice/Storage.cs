@@ -11,5 +11,6 @@ namespace ListDicPractice
         public static List<int> listNums = new List<int>();
         public static List<User> users = new List<User>();
         public static Dictionary<int, Student> students = new Dictionary<int, Student>();
+        public static List<Product> products = new List<Product>();
     }
 }
